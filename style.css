@@ -34,7 +34,7 @@ body {
     padding: 1rem;
     padding-top: 0;
 }
-p {
+p, h1 {
     font-family: "Outfit", sans-serif;
 }
 #Headline {
